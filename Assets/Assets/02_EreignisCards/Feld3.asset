@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4b588813e2e6f4ea6ed46f562e0177, type: 3}
+  m_Name: Feld3
+  m_EditorClassIdentifier: 
+  cardName: "Mobilit\xE4tskonzept"
+  description: "F\xFCr die Umsetzung des Mobilit\xE4tskonzeptes muss die Stadt tief
+    in die Taschen greifen. Allerdings sind B\xFCrger und Mitarbeiter der Pfaff City
+    \xFCberzeugt vom Konzept und beeindruckt von der konsequenten Umsetzung. Gut
+    f\xFCr die Umwelt- und Zufriedenheitspunkte. "
+  backgroundImage: {fileID: 0}
+  moneyBonus: -300
+  ecoBonus: 200
+  satisfactionBonus: 150

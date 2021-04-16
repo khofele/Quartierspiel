@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee4d6cf3235c0b4897b15de1c372d14, type: 3}
+  m_Name: Parkanlage
+  m_EditorClassIdentifier: 
+  buildingName: Parkanlage
+  description: "Das Konzept einer ausgewogenen Arbeitsatmosph\xE4re, New Work Konzepte
+    und weitere Arbeitspsychologische Ans\xE4tze werden immer wichtiger. Durch die
+    Parkanlage erh\xF6ht sich Lebens- und Wohnqualit\xE4t. Trotz hoher Kosten ein
+    sinnvolles Geb\xE4ude. "
+  backgroundImage: {fileID: 21300000, guid: 8b40c5b3d8217f744a964b91b0c951ac, type: 3}
+  buildingcosts: -500
+  geldProRunde: -80
+  ecoProRunde: 20
+  zufProRunde: 70

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4b588813e2e6f4ea6ed46f562e0177, type: 3}
+  m_Name: Feld18
+  m_EditorClassIdentifier: 
+  cardName: 'Gutes Wetter & Sonnenstunden '
+  description: "Die Mitarbeiter der Pfaff City nutzen die angelegten Gr\xFCnfl\xE4chen
+    in Ihren Pausen ausgiebig. Die Arbeitszeiten der Mitarbeiter scheinen sich von
+    M\xE4rz bis September drastischer zu reduzieren."
+  backgroundImage: {fileID: 0}
+  moneyBonus: -300
+  ecoBonus: -300
+  satisfactionBonus: 200

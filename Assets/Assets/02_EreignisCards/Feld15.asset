@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4b588813e2e6f4ea6ed46f562e0177, type: 3}
+  m_Name: Feld15
+  m_EditorClassIdentifier: 
+  cardName: Gewinnbeteiligung
+  description: "Vom kleinen \xD6ko-Startup bis zur Fabrik \u2013 die nachhaltigen
+    Ans\xE4tze der Unternehmen zahlen sich aus und die ebenfalls nachhaltigen Produkte
+    erfreuen sich immer gr\xF6\xDFerer Nachfrage. Die Mitarbeiter werden beteiligt."
+  backgroundImage: {fileID: 0}
+  moneyBonus: -200
+  ecoBonus: 50
+  satisfactionBonus: 100

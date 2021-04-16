@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - followCam
+  - boardOverview
+  - route
+  - Player1
+  - Feld1
+  - Feld2
+  - Feld3
+  - Feld4
+  - Feld5
+  - Feld6
+  - Feld7
+  - Feld8
+  - Feld9
+  - Feld10
+  - Feld11
+  - Feld12
+  - Feld13
+  - Feld14
+  - Feld15
+  - Feld16
+  - Feld17
+  - Feld18
+  - Feld19
+  - Feld0
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

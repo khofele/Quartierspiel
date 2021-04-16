@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee4d6cf3235c0b4897b15de1c372d14, type: 3}
+  m_Name: "Feld2 - U1.1 -\xD6ko-Startup"
+  m_EditorClassIdentifier: 
+  buildingName: "\xD6ko-Startup"
+  description: 'Die umweltfreundlichen Ausrichtung des Unternehmens und dem damit
+    einhergehenden Ansehen der Mitarbeiter und Einwohner der Smart City produziert
+    viele Umwelt- und Zufriedenheitspunkte. Allerdings kostet die Unternehmensphilosophie
+    Gold. '
+  backgroundImage: {fileID: 21300000, guid: 0fd0a830bf554b3449db90652e870f84, type: 3}
+  buildingcosts: -100
+  geldProRunde: -20
+  ecoProRunde: 40
+  zufProRunde: 10

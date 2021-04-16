@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee4d6cf3235c0b4897b15de1c372d14, type: 3}
+  m_Name: Solaranlage
+  m_EditorClassIdentifier: 
+  buildingName: Solaranlage
+  description: "Bei dem Geb\xE4ude Solaranlage handelt es sich um ein auf Photovoltaik
+    spezialisiertes \xD6ko-Startup, welches auch die eigene Energieversorgung durch
+    die eigene Technik gew\xE4hrleistet und zus\xE4tzlich noch die Energieversorgung
+    der Smart City unterst\xFCtzt. Somit wirkt sich die Solaranlage trotz h\xF6herer
+    Baukosten extrem positiv auf die Umweltpunkte aus. "
+  backgroundImage: {fileID: 21300000, guid: 1f6ae55adc70ea8479aeac2331eca266, type: 3}
+  buildingcosts: -250
+  geldProRunde: -40
+  ecoProRunde: 80
+  zufProRunde: 50

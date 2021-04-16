@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee4d6cf3235c0b4897b15de1c372d14, type: 3}
+  m_Name: Foodmeile
+  m_EditorClassIdentifier: 
+  buildingName: Food-Meile
+  description: "Eine ausgewogene Ern\xE4hrung und ein umfangreiches Angebot an Speisen
+    haben gro\xDFen EInfluss bei den Mitarbeitern. Das zus\xE4tzliche Angebot durch
+    eine Food-Meile wirkt sich somit sehr positiv auf die Zufriedenheitspunkte des
+    Spielers pro Runde aus. Die Subventionen gehen allerdings ins Gold"
+  backgroundImage: {fileID: 21300000, guid: 6d7641df543e348489fe491cb8d630c2, type: 3}
+  buildingcosts: -250
+  geldProRunde: -50
+  ecoProRunde: 0
+  zufProRunde: 50
