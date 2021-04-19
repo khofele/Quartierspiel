@@ -1,0 +1,1222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-04-16T16:58:35.354+02:00
+  initializedAtString: 2021-04-16T16:58:35.354+02:00
+  entries:
+  - path: .vs\Quartierspiel\v16\.suo
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\.vs\Quartierspiel\v16\.suo
+    projectPath: .vs\Quartierspiel\v16\.suo
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\07\07ef7200a3cfe68439c57e1551c7a35f
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\07\07ef7200a3cfe68439c57e1551c7a35f
+    projectPath: Library\Artifacts\07\07ef7200a3cfe68439c57e1551c7a35f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0ac9b8bbf6bcd28576597e3f1849189c
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\0a\0ac9b8bbf6bcd28576597e3f1849189c
+    projectPath: Library\Artifacts\0a\0ac9b8bbf6bcd28576597e3f1849189c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\11\1115fd6d1b0fa7c122cc24224baa7895
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\11\1115fd6d1b0fa7c122cc24224baa7895
+    projectPath: Library\Artifacts\11\1115fd6d1b0fa7c122cc24224baa7895
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\19\196b0f6993a6b18ee1652109011db8df
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\19\196b0f6993a6b18ee1652109011db8df
+    projectPath: Library\Artifacts\19\196b0f6993a6b18ee1652109011db8df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1b\1bcc900985d7924c8690e1c2956928b6
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\1b\1bcc900985d7924c8690e1c2956928b6
+    projectPath: Library\Artifacts\1b\1bcc900985d7924c8690e1c2956928b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1c\1ca8935f86a7364487a0cee034ba41ba
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\1c\1ca8935f86a7364487a0cee034ba41ba
+    projectPath: Library\Artifacts\1c\1ca8935f86a7364487a0cee034ba41ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\23\2385ae9c8e30259d03e18e9528756438
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\23\2385ae9c8e30259d03e18e9528756438
+    projectPath: Library\Artifacts\23\2385ae9c8e30259d03e18e9528756438
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\25\2538fddf8a631ec86116fa9c6c698b2d
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\25\2538fddf8a631ec86116fa9c6c698b2d
+    projectPath: Library\Artifacts\25\2538fddf8a631ec86116fa9c6c698b2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\29\291b3a87cec023e4028ac9dec36d52ca
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\29\291b3a87cec023e4028ac9dec36d52ca
+    projectPath: Library\Artifacts\29\291b3a87cec023e4028ac9dec36d52ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2e\2ef6b3dabdedf023a19598188854d35f
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\2e\2ef6b3dabdedf023a19598188854d35f
+    projectPath: Library\Artifacts\2e\2ef6b3dabdedf023a19598188854d35f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\35\353cdc4b020184a4b77c5ba56b6ea302
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\35\353cdc4b020184a4b77c5ba56b6ea302
+    projectPath: Library\Artifacts\35\353cdc4b020184a4b77c5ba56b6ea302
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\381a02c16fdbb83b146da80690474eef
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\38\381a02c16fdbb83b146da80690474eef
+    projectPath: Library\Artifacts\38\381a02c16fdbb83b146da80690474eef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3e\3eee3fab7653a1bf8a2aabd3ecaea63e
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\3e\3eee3fab7653a1bf8a2aabd3ecaea63e
+    projectPath: Library\Artifacts\3e\3eee3fab7653a1bf8a2aabd3ecaea63e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\43\43bdcc1ca0347571589400e1f25fe99f
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\43\43bdcc1ca0347571589400e1f25fe99f
+    projectPath: Library\Artifacts\43\43bdcc1ca0347571589400e1f25fe99f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\47\472f9a7a91c0253d09cd6b655b0b158f
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\47\472f9a7a91c0253d09cd6b655b0b158f
+    projectPath: Library\Artifacts\47\472f9a7a91c0253d09cd6b655b0b158f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\48\489bc94e55d411ea3aff6e87cb173e60
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\48\489bc94e55d411ea3aff6e87cb173e60
+    projectPath: Library\Artifacts\48\489bc94e55d411ea3aff6e87cb173e60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\62\62c067919010de0d98b25e3a03b2dfae
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\62\62c067919010de0d98b25e3a03b2dfae
+    projectPath: Library\Artifacts\62\62c067919010de0d98b25e3a03b2dfae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\726c53655bab71f41bc883b980b1d266
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\72\726c53655bab71f41bc883b980b1d266
+    projectPath: Library\Artifacts\72\726c53655bab71f41bc883b980b1d266
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7a\7a2231a4c9768442cd8abb074fa9e16e
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\7a\7a2231a4c9768442cd8abb074fa9e16e
+    projectPath: Library\Artifacts\7a\7a2231a4c9768442cd8abb074fa9e16e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7addfba7a816826da46a36f8ddf90d50
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\7a\7addfba7a816826da46a36f8ddf90d50
+    projectPath: Library\Artifacts\7a\7addfba7a816826da46a36f8ddf90d50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7f\7fef9aed561d103cd40ce418d4ab4116
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\7f\7fef9aed561d103cd40ce418d4ab4116
+    projectPath: Library\Artifacts\7f\7fef9aed561d103cd40ce418d4ab4116
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\80\80925a09cb69fba3c810ef106205162f
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\80\80925a09cb69fba3c810ef106205162f
+    projectPath: Library\Artifacts\80\80925a09cb69fba3c810ef106205162f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\8155c34f9135912a9f0e73b0a50f1f55
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\81\8155c34f9135912a9f0e73b0a50f1f55
+    projectPath: Library\Artifacts\81\8155c34f9135912a9f0e73b0a50f1f55
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\85\8569799655c434279ce41fa20fb5db7b
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\85\8569799655c434279ce41fa20fb5db7b
+    projectPath: Library\Artifacts\85\8569799655c434279ce41fa20fb5db7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\87dfd0726c670a5a348b8bbefd9a7cd9
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\87\87dfd0726c670a5a348b8bbefd9a7cd9
+    projectPath: Library\Artifacts\87\87dfd0726c670a5a348b8bbefd9a7cd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\87eac6bda37bb04de725766a7e053a1c
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\87\87eac6bda37bb04de725766a7e053a1c
+    projectPath: Library\Artifacts\87\87eac6bda37bb04de725766a7e053a1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e49cb64a385463fd1a09a050b773ca9
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\8e\8e49cb64a385463fd1a09a050b773ca9
+    projectPath: Library\Artifacts\8e\8e49cb64a385463fd1a09a050b773ca9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\90d1887111ef4e01384460f00b0b26dd
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\90\90d1887111ef4e01384460f00b0b26dd
+    projectPath: Library\Artifacts\90\90d1887111ef4e01384460f00b0b26dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\94\94072e5d88fee22d0fedbb64ea23b624
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\94\94072e5d88fee22d0fedbb64ea23b624
+    projectPath: Library\Artifacts\94\94072e5d88fee22d0fedbb64ea23b624
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\98\98739d78e189f7cbedbc91b5fe08d193
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\98\98739d78e189f7cbedbc91b5fe08d193
+    projectPath: Library\Artifacts\98\98739d78e189f7cbedbc91b5fe08d193
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9b428b02490e35cf575f7f96e60e8d6b
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\9b\9b428b02490e35cf575f7f96e60e8d6b
+    projectPath: Library\Artifacts\9b\9b428b02490e35cf575f7f96e60e8d6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9b\9ba14b990ab83e39738ee7b367644114
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\9b\9ba14b990ab83e39738ee7b367644114
+    projectPath: Library\Artifacts\9b\9ba14b990ab83e39738ee7b367644114
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a1\a14225860e55378dc50f6d2f96dd5d7f
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\a1\a14225860e55378dc50f6d2f96dd5d7f
+    projectPath: Library\Artifacts\a1\a14225860e55378dc50f6d2f96dd5d7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a6\a663b4bc70306e4ada16796c1f6f3830
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\a6\a663b4bc70306e4ada16796c1f6f3830
+    projectPath: Library\Artifacts\a6\a663b4bc70306e4ada16796c1f6f3830
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b0\b09330afbd317ca31ad61d6f007804d6
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\b0\b09330afbd317ca31ad61d6f007804d6
+    projectPath: Library\Artifacts\b0\b09330afbd317ca31ad61d6f007804d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b5\b5a9087e9f56abaec4cbc02dfa232b0d
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\b5\b5a9087e9f56abaec4cbc02dfa232b0d
+    projectPath: Library\Artifacts\b5\b5a9087e9f56abaec4cbc02dfa232b0d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b8\b8b314b93573b935446249db34322b4c
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\b8\b8b314b93573b935446249db34322b4c
+    projectPath: Library\Artifacts\b8\b8b314b93573b935446249db34322b4c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ba\ba08fb9ee847879854bc9d47942dea44
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\ba\ba08fb9ee847879854bc9d47942dea44
+    projectPath: Library\Artifacts\ba\ba08fb9ee847879854bc9d47942dea44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\ba1d4fe1ac9987a700e94300641e1b51
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\ba\ba1d4fe1ac9987a700e94300641e1b51
+    projectPath: Library\Artifacts\ba\ba1d4fe1ac9987a700e94300641e1b51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\bafc6e9af010a4140d367b5524014195
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\ba\bafc6e9af010a4140d367b5524014195
+    projectPath: Library\Artifacts\ba\bafc6e9af010a4140d367b5524014195
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c3\c3253e9e2acefd7c850f11ff526cb849
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\c3\c3253e9e2acefd7c850f11ff526cb849
+    projectPath: Library\Artifacts\c3\c3253e9e2acefd7c850f11ff526cb849
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d089e07a9d8657b726f66f4a54c39dea
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\d0\d089e07a9d8657b726f66f4a54c39dea
+    projectPath: Library\Artifacts\d0\d089e07a9d8657b726f66f4a54c39dea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d0b7c4e5dfb4d2bf28f4b0ccd338756c
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\d0\d0b7c4e5dfb4d2bf28f4b0ccd338756c
+    projectPath: Library\Artifacts\d0\d0b7c4e5dfb4d2bf28f4b0ccd338756c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d48c785e7f1ba9a6c9809d9847b20795
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\d4\d48c785e7f1ba9a6c9809d9847b20795
+    projectPath: Library\Artifacts\d4\d48c785e7f1ba9a6c9809d9847b20795
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d9\d93fd711348873ee6608dcc908c58971
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\d9\d93fd711348873ee6608dcc908c58971
+    projectPath: Library\Artifacts\d9\d93fd711348873ee6608dcc908c58971
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e3\e369e5f0ddcbd5a9e693a37bb320c4f6
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\e3\e369e5f0ddcbd5a9e693a37bb320c4f6
+    projectPath: Library\Artifacts\e3\e369e5f0ddcbd5a9e693a37bb320c4f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e5\e50a0aa3538620c60fe09676d9525de9
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\e5\e50a0aa3538620c60fe09676d9525de9
+    projectPath: Library\Artifacts\e5\e50a0aa3538620c60fe09676d9525de9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e6\e678c872eae1a131f151cb380f9aa85d
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\e6\e678c872eae1a131f151cb380f9aa85d
+    projectPath: Library\Artifacts\e6\e678c872eae1a131f151cb380f9aa85d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e9\e9b64d14f5a4633f6bdb2d88f8d5b0de
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\e9\e9b64d14f5a4633f6bdb2d88f8d5b0de
+    projectPath: Library\Artifacts\e9\e9b64d14f5a4633f6bdb2d88f8d5b0de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ec\ec10e35e9cbf5b7eb7f85beb701fde72
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\ec\ec10e35e9cbf5b7eb7f85beb701fde72
+    projectPath: Library\Artifacts\ec\ec10e35e9cbf5b7eb7f85beb701fde72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f8\f83424905667bf21c05059eea1e281e0
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\f8\f83424905667bf21c05059eea1e281e0
+    projectPath: Library\Artifacts\f8\f83424905667bf21c05059eea1e281e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fa\fa2150d11a77ed0ec96564de06540767
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\fa\fa2150d11a77ed0ec96564de06540767
+    projectPath: Library\Artifacts\fa\fa2150d11a77ed0ec96564de06540767
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb3342e365fe21a3cc1ec8878977f652
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\fb\fb3342e365fe21a3cc1ec8878977f652
+    projectPath: Library\Artifacts\fb\fb3342e365fe21a3cc1ec8878977f652
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\fb\fb7b59555ba9412e9683451ad79eb29a
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\Artifacts\fb\fb7b59555ba9412e9683451ad79eb29a
+    projectPath: Library\Artifacts\fb\fb7b59555ba9412e9683451ad79eb29a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    projectPath: Library\ScriptAssemblies\VuforiaEditorScripts.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaScripts.dll
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\VuforiaScripts.dll
+    projectPath: Library\ScriptAssemblies\VuforiaScripts.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\VuforiaScripts.pdb
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\ScriptAssemblies\VuforiaScripts.pdb
+    projectPath: Library\ScriptAssemblies\VuforiaScripts.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\cc2798-mainStage.json
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Library\StateCache\SceneView\cc2798-mainStage.json
+    projectPath: Library\StateCache\SceneView\cc2798-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Quartierspiel.sln
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Quartierspiel.sln
+    projectPath: Quartierspiel.sln
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\karen\Desktop\Studium\5. Semester\Korion\Ecocity\Code und
+      Builds\Builds\Quartierspiel\Quartierspiel\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

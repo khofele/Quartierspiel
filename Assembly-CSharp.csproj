@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0F6FDF9E-753F-C98F-45D0-6439AF26B6FD}</ProjectGuid>
+    <ProjectGuid>{92009F8B-A0DE-63B6-1A31-78D9FDFC3C0F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -362,10 +362,10 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="zxing.unity">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Assets/Assets/Plugins/zxing.unity.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Assets/Assets/Plugins/zxing.unity.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/PackageCache/com.ptc.vuforia.engine@8.5.9/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/PackageCache/com.ptc.vuforia.engine@8.5.9/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -722,37 +722,37 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaScripts">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaEditorScripts">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Ecocity Kamera verbessert + Mehrspieler/Ecocity Kamera verbessert + Mehrspieler/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/karen/Desktop/Studium/5. Semester/Korion/Ecocity/Code und Builds/Builds/Quartierspiel/Quartierspiel/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
